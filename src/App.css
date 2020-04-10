@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+.h1 {
+  width: 100%;
+  display: block;
+}
+
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.filter {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.color {
+  align-self: center;
+}
+
+.checkbox {
+  user-select: none;
+}
